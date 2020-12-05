@@ -16,5 +16,6 @@ Here are some ideas to get you started:
 -->
 
 Hello!
-
 I'm currently a computer science student at Simon Fraser University.
+
+(she/her)
