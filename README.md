@@ -15,8 +15,8 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-I'm currently a first-year computer science student at Simon Fraser University.
-I enjoy learning about emerging technologies and am passionate about problem-solving.
+I'm currently a first-year computer science student at Simon Fraser University.  
+I enjoy learning about emerging technologies and am passionate about problem-solving.  
 
-🌱 I’m currently learning: C/C++, Mobile Development
-😄 Pronouns: she/her
+🌱 I’m currently learning: C/C++, Mobile Development  
+😄 Pronouns: she/her  
